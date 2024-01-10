@@ -16,7 +16,8 @@
 
     <section>
         <h2>About</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus libero ac elit consectetur, sit amet scelerisque odio volutpat.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dapibus libero ac elit consectetur,
+        sit amet scelerisque odio volutpat.</p>
     </section>
 
     <section>
